@@ -9,3 +9,9 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
         - Review of Set Theory
     * Lecture 2 (20 August, Friday)
         - Review of Set Theory (contd.)
+* Week 2
+    * Lecture 3 (24 August, Tuesday)
+        - Probability
+            - Important Terms
+            - Finite Probability Space
+            - Axioms of Probability
