@@ -15,3 +15,9 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
             - Important Terms
             - Finite Probability Space
             - Axioms of Probability
+    * Lecture 4 (27 August, Friday)
+        - Probability (contd.)
+            - Galton Board
+            - The Inclusion-Exclusion Principle
+
+
