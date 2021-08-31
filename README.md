@@ -19,5 +19,10 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
         - Probability (contd.)
             - Galton Board
             - The Inclusion-Exclusion Principle
-
-
+* Week 3
+    * Lecture 5 (31 August, Tuesday)
+        - Probability
+            - Random Walks
+                - 1D
+                - 2D
+            - Conditional Probability
