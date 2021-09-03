@@ -26,3 +26,7 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
                 - 1D
                 - 2D
             - Conditional Probability
+    * Lecture 6 (03 September, Friday)
+        - Probability
+            - Bayes' Theorem
+            - The Monty Hall Problem
