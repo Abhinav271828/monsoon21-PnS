@@ -30,3 +30,8 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
         - Probability
             - Bayes' Theorem
             - The Monty Hall Problem
+* Week 4
+* Week 5
+    * Lecture 7 (14 September, Tuesday)
+        - Probability
+            - Independent Events
