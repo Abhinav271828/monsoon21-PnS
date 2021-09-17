@@ -35,3 +35,5 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
     * Lecture 7 (14 September, Tuesday)
         - Probability
             - Independent Events
+    * Lecture 8 (17 September, Friday)
+        - Information Theory
