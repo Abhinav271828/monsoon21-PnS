@@ -37,3 +37,12 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
             - Independent Events
     * Lecture 8 (17 September, Friday)
         - Information Theory
+* Week 6
+    * Lecture 9 (21 September, Tuesday)
+        - Quantum Computing
+            - Bits and Qubits
+            - Postulates of QM
+                - State Space
+                - Evolution
+                - Measurement
+                - Composition
