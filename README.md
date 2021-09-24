@@ -46,3 +46,8 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
                 - Evolution
                 - Measurement
                 - Composition
+    * Lecture 10 (24 September, Friday)
+        - Quantum Computing (contd.)
+            - States
+            - Circuit
+            - Teleportation and Superdense Coding
