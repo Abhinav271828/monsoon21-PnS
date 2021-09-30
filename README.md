@@ -51,3 +51,9 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
             - States
             - Circuit
             - Teleportation and Superdense Coding
+* Week 7
+    * Lecture 11 (28 September, Tuesday)
+        - Probability (contd.)
+            - Properties of Conditional Properties
+            - Conditional Independence
+            - Random Variables
