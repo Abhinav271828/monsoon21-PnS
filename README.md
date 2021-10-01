@@ -57,3 +57,7 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
             - Properties of Conditional Properties
             - Conditional Independence
             - Random Variables
+    * Lecture 12 (01 October, Friday)
+        - Probability (contd.)
+            - Probability Mass Function
+            - Expectation
