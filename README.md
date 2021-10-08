@@ -61,3 +61,13 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
         - Probability (contd.)
             - Probability Mass Function
             - Expectation
+* Week 8
+    * Lecture 13 (08 October, Friday)
+        - Probability (contd.)
+            - Saint Petersberg Paradox
+            - Distributions
+                - Uniform Distribution
+                - Bernoulli Distribution
+                - Geometric Distribution
+                - Binomial Distribution
+                - Poisson Distribution
