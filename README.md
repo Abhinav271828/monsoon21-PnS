@@ -71,3 +71,6 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
                 - Geometric Distribution
                 - Binomial Distribution
                 - Poisson Distribution
+* Week 9
+    * Lecture 14 (12 October, Tuesday)
+        - Probability (contd.)
