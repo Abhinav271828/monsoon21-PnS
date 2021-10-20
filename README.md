@@ -73,4 +73,15 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
                 - Poisson Distribution
 * Week 9
     * Lecture 14 (12 October, Tuesday)
-        - Probability (contd.)
+        - Probability
+            - Distributions (contd.)
+                - Poisson Distribution
+            - Expectations
+                - Poisson Distribution
+                - Binomial Distribution
+            - Variance and Standard Deviation
+            - Higher Order Moments
+* Week 10
+    * Lecture 15 (20 October, Wednesday)
+        -  Probability
+            - Higher Order Moments (contd.)
