@@ -83,5 +83,9 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
             - Higher Order Moments
 * Week 10
     * Lecture 15 (20 October, Wednesday)
-        -  Probability
+        - Probability
             - Higher Order Moments (contd.)
+    * Lecture 16 (22 October, Friday)
+        - Probability
+            - Cumulative Distribution Function
+            - Continuous Random Variables
