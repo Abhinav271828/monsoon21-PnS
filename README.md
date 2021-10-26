@@ -89,3 +89,7 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
         - Probability
             - Cumulative Distribution Function
             - Continuous Random Variables
+* Week 11
+    * Lecture 17 (26 October, Tuesday)
+        - Probability
+            - Continuous Random Variables (contd.)
