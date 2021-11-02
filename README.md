@@ -93,3 +93,10 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
     * Lecture 17 (26 October, Tuesday)
         - Probability
             - Continuous Random Variables (contd.)
+* Week 12
+    * Lecture 18 (02 November, Tuesday)
+        - Probability
+            - Transforming PDFs
+            - Distributions
+                - Uniform Distribution
+                - Exponential Distribution
