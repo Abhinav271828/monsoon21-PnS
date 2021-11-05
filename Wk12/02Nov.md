@@ -2,7 +2,7 @@
 title: Probability and Statistics (MA6.101)
 subtitle: |
           | Monsoon 2021, IIIT Hyderabad
-          | 26 October, Tuesday (Lecture 17)
+          | 02 November, Tuesday (Lecture 18)
 author: Taught by Prof. Pawan Kumar
 ---
 
