@@ -100,3 +100,9 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
             - Distributions
                 - Uniform Distribution
                 - Exponential Distribution
+    * Lecture 19 (05 November, Friday)
+        - Probability
+            - Distributions (contd.)
+                - Standard Gaussian Distribution
+                - General Gaussian Distribution
+                - Gamma Distribution
