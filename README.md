@@ -106,3 +106,8 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
                 - Standard Gaussian Distribution
                 - General Gaussian Distribution
                 - Gamma Distribution
+* Week 13
+    * Lecture 20 (09 November, Tuesday)
+        - Probability
+            - Distributions
+                - Gamma Distribution (contd.)
