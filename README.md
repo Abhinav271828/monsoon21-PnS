@@ -111,9 +111,14 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
         - Probability
             - Distributions
                 - Gamma Distribution (contd.)
-    * Lecture 21 (11 November, Friday)
+    * Lecture 21 (12 November, Friday)
         - Probability
             - Joint Probability
                 - Joint Probability Mass Function
                 - Joint Cumulative Distribution Function
                 - Independent Random Variables
+* Week 14
+    * Lecture 22 (16 November, Tuesday)
+        - Probability
+            - Joint Probability (contd.)
+                - Conditional PMF and CDF
