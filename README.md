@@ -122,3 +122,9 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
         - Probability
             - Joint Probability (contd.)
                 - Conditional PMF and CDF
+    * Lecture 23 (19 November, Friday)
+        - Probability
+            - Some Properties of Expectation
+            - Conditional Variance
+            - Joint Probability Density Function
+            - Conditional PDF
