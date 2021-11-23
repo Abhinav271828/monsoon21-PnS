@@ -128,3 +128,17 @@ Notes and resources for the Probability and Statistics course at IIIT Hyderabad.
             - Conditional Variance
             - Joint Probability Density Function
             - Conditional PDF
+* Week 15
+    * Lecture 24 (23 November, Tuesday)
+        - Probability
+            - Covariance
+            - Correlation Coefficient
+            - Bivariate Normal Distribution
+            - Union Bound and Extension
+            - Markov and Chebyshev Inequalities
+            - Chernoff Bound
+            - Cauchy-Schwarz Inequality
+            - Convex Functions and Jensen's Inequality
+            - Sample Mean
+            - Weak Law of Large Numbers
+            - Central Limit Theorem
